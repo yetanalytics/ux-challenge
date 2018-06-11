@@ -6,7 +6,7 @@ A developer challenge focusing around UI/UX needs. This component will focus on 
 
 This repo contains a single page. It contains an unstyled page with prefilled HTML. The challenge here is to vet your technical skills at vanilla CSS. Therefore, your focus should remain mostly within CSS. You can modify the HTML to help accomodate your styling, but otherwise don't spend much time changing the existing layout.
 
-The demo for this challenge is a single, static page prepopulated with dummy content. You do not need to work in any support for dynamic content. There is no navigation to other views or pages. Just focus on making this one page responsive, well styled, clean, and fun to use. Inside the `resources/public` directory you will find a file called `index.html` that defines the layout and structure of the page, along with a file located in `css/style.css` that is empty. 
+The demo for this challenge is a single, static page prepopulated with dummy content. You do not need to work in any support for dynamic content. There is no navigation to other views or pages. Just focus on making this one page responsive, well styled, clean, and fun to use. Inside the `resources/public` directory you will find a file called `index.html` that defines the layout and structure of the page, along with a file located in `css/style.css` that contains only the most minimal styling. 
 
 As this challenge is not meant to test your skills as a developer you are not tasked with standing up a server for this (but if you'd like to feel free to do so as long as you supply the documentation for running that setup!). Instead, feel free to simply use a local [Python SimpleHTTPServer](http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/).
 
