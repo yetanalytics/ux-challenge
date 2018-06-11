@@ -12,7 +12,7 @@ As this challenge is not meant to test your skills as a developer you are not ta
 
 ## Requirements
 
-We have been approached by a client that wants to make InstaCat, the next big image sharing app, but specifically for sharing and rating cat pictures. Prior to spending developer time on the project, a minimal, unstyled HTML mockup for the site was make to present as a proof of concept to the client. Now it's your job to apply your awesome design skills to make the site sleek and satisfy the design requirements listed below:
+We have been approached by a client that wants to make InstaCat, the next big image sharing app, but specifically for sharing and rating cat pictures. Prior to spending developer time on the project, a minimal, barely styled HTML mockup for the site was made to present as a proof of concept to the client. Now it's your job to apply your awesome design skills by taking the mockup and making it sleek and satisfy the design requirements listed below:
 
 ### Tone
 
